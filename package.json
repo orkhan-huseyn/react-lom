@@ -1,5 +1,5 @@
 {
-  "name": "custom-react-renderer",
+  "name": "react-lom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react-reconciler": "^0.26.2",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.3"
   },
